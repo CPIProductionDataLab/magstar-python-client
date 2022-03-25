@@ -1,2 +1,10 @@
 # magstar-python-client
-CPI's Magstar Python Client library
+
+A Python client library for Computational Physics Inc.'s Magstar magnetometer networks.
+
+## Installing
+
+
+## Usage
+
+
